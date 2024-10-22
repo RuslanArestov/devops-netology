@@ -15,3 +15,4 @@ This is a file README.md
 12. Файл, содержащий информацию о блокировке состояния .terraform.tfstate.lock.info.
 13. Конфигурационный файл для Terraform .terraformrc.
 14. Альтернативный конфигурационный файл для Terraform terraform.rc.
+Add new string
